@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal de la Ciudad (Solo Capital)">
+    <display-name lang="es">Canal de la Ciudad (Solo Capital)</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="Metro">
+    <display-name lang="es">Metro</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="A 24">
+    <display-name lang="es">A 24</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="C5N">
+    <display-name lang="es">C5N</display-name>
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <programme start="20201206000000 -0300" stop="20201206003000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">N 24.00</title>
+  </programme>
+  <programme start="20201206003000 -0300" stop="20201206010000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Para alquilar balcones</title>
+  </programme>
+  <programme start="20201206010000 -0300" stop="20201206013000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Proyecto EQ</title>
+  </programme>
+  <programme start="20201206013000 -0300" stop="20201206023000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Folklore en casa</title>
+  </programme>
+  <programme start="20201206023000 -0300" stop="20201206033000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Jazzología</title>
+  </programme>
+  <programme start="20201206033000 -0300" stop="20201206043000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Magistrales</title>
+  </programme>
+  <programme start="20201206043000 -0300" stop="20201206053000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Muy Muscari</title>
+  </programme>
+  <programme start="20201206053000 -0300" stop="20201206060000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Puro Heavy</title>
+  </programme>
+  <programme start="20201206060000 -0300" stop="20201206070000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Pantagruélico - Famosos</title>
+  </programme>
+  <programme start="20201206070000 -0300" stop="20201206080000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Clásicos del Tasso</title>
+  </programme>
+  <programme start="20201206080000 -0300" stop="20201206090000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Jazzología</title>
+  </programme>
+  <programme start="20201206090000 -0300" stop="20201206093000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Puro Heavy</title>
+  </programme>
+  <programme start="20201206093000 -0300" stop="20201206100000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Mandinga Tattoo</title>
+  </programme>
+  <programme start="20201206100000 -0300" stop="20201206110000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Pantagruélico</title>
+  </programme>
+  <programme start="20201206110000 -0300" stop="20201206120000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">SET - Siempre es teatro</title>
+  </programme>
+  <programme start="20201206120000 -0300" stop="20201206123000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Expedición Merino</title>
+  </programme>
+  <programme start="20201206123000 -0300" stop="20201206130000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Proyecto EQ</title>
+  </programme>
+  <programme start="20201206130000 -0300" stop="20201206140000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Folklore en casa</title>
+  </programme>
+  <programme start="20201206140000 -0300" stop="20201206143000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Cultura DJ</title>
+  </programme>
+  <programme start="20201206143000 -0300" stop="20201206153000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Clásicos del Tasso</title>
+  </programme>
+  <programme start="20201206153000 -0300" stop="20201206160000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Mandinga Tattoo</title>
+  </programme>
+  <programme start="20201206160000 -0300" stop="20201206173000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Enredada</title>
+  </programme>
+  <programme start="20201206173000 -0300" stop="20201206180000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">DGM Didáctico</title>
+  </programme>
+  <programme start="20201206180000 -0300" stop="20201206190000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Folklore en casa</title>
+  </programme>
+  <programme start="20201206190000 -0300" stop="20201206193000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Cultura DJ</title>
+  </programme>
+  <programme start="20201206193000 -0300" stop="20201206203000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Campo de batalla</title>
+  </programme>
+  <programme start="20201206203000 -0300" stop="20201206210000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Proyecto EQ</title>
+  </programme>
+  <programme start="20201206210000 -0300" stop="20201206220000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Jazz Festival</title>
+  </programme>
+  <programme start="20201206220000 -0300" stop="20201206230000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">Música en casa</title>
+  </programme>
+  <programme start="20201206230000 -0300" stop="20201207000000 -0300" channel="Canal de la Ciudad (Solo Capital)">
+    <title lang="es">SET - Siempre es teatro</title>
+  </programme>
+  <programme start="20201206000000 -0300" stop="20201206003000 -0300" channel="Metro">
+    <title lang="es">Gritalo con Grandio</title>
+  </programme>
+  <programme start="20201206003000 -0300" stop="20201206010000 -0300" channel="Metro">
+    <title lang="es">Move</title>
+  </programme>
+  <programme start="20201206010000 -0300" stop="20201206013000 -0300" channel="Metro">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20201206013000 -0300" stop="20201206020000 -0300" channel="Metro">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20201206020000 -0300" stop="20201206023000 -0300" channel="Metro">
+    <title lang="es">Claridades</title>
+  </programme>
+  <programme start="20201206023000 -0300" stop="20201206030000 -0300" channel="Metro">
+    <title lang="es">OdontoTV</title>
+  </programme>
+  <programme start="20201206030000 -0300" stop="20201206033000 -0300" channel="Metro">
+    <title lang="es">Yes</title>
+  </programme>
+  <programme start="20201206033000 -0300" stop="20201206040000 -0300" channel="Metro">
+    <title lang="es">LP Moda</title>
+  </programme>
+  <programme start="20201206040000 -0300" stop="20201206043000 -0300" channel="Metro">
+    <title lang="es">Pizarro en 30'</title>
+  </programme>
+  <programme start="20201206043000 -0300" stop="20201206050000 -0300" channel="Metro">
+    <title lang="es">Café financiero</title>
+  </programme>
+  <programme start="20201206050000 -0300" stop="20201206053000 -0300" channel="Metro">
+    <title lang="es">Vida y estética</title>
+  </programme>
+  <programme start="20201206053000 -0300" stop="20201206060000 -0300" channel="Metro">
+    <title lang="es">Todo riesgo</title>
+  </programme>
+  <programme start="20201206060000 -0300" stop="20201206070000 -0300" channel="Metro">
+    <title lang="es">Magdalena y el país</title>
+  </programme>
+  <programme start="20201206070000 -0300" stop="20201206073000 -0300" channel="Metro">
+    <title lang="es">Alimenta tu vida</title>
+  </programme>
+  <programme start="20201206073000 -0300" stop="20201206080000 -0300" channel="Metro">
+    <title lang="es">La gran vidriera</title>
+  </programme>
+  <programme start="20201206080000 -0300" stop="20201206083000 -0300" channel="Metro">
+    <title lang="es">En forma - Ciencia y tecnología</title>
+  </programme>
+  <programme start="20201206083000 -0300" stop="20201206090000 -0300" channel="Metro">
+    <title lang="es">La gran vidriera</title>
+  </programme>
+  <programme start="20201206090000 -0300" stop="20201206100000 -0300" channel="Metro">
+    <title lang="es">Reunión de consorcio</title>
+  </programme>
+  <programme start="20201206100000 -0300" stop="20201206103000 -0300" channel="Metro">
+    <title lang="es">LP Moda</title>
+  </programme>
+  <programme start="20201206103000 -0300" stop="20201206110000 -0300" channel="Metro">
+    <title lang="es">Mundo turístico</title>
+  </programme>
+  <programme start="20201206110000 -0300" stop="20201206113000 -0300" channel="Metro">
+    <title lang="es">Calidad y calidez</title>
+  </programme>
+  <programme start="20201206113000 -0300" stop="20201206120000 -0300" channel="Metro">
+    <title lang="es">Mariana de viaje</title>
+  </programme>
+  <programme start="20201206120000 -0300" stop="20201206123000 -0300" channel="Metro">
+    <title lang="es">Yes</title>
+  </programme>
+  <programme start="20201206123000 -0300" stop="20201206130000 -0300" channel="Metro">
+    <title lang="es">Bichos de campo</title>
+  </programme>
+  <programme start="20201206130000 -0300" stop="20201206140000 -0300" channel="Metro">
+    <title lang="es">Agro TV</title>
+  </programme>
+  <programme start="20201206140000 -0300" stop="20201206143000 -0300" channel="Metro">
+    <title lang="es">Gritalo con Grandio</title>
+  </programme>
+  <programme start="20201206143000 -0300" stop="20201206150000 -0300" channel="Metro">
+    <title lang="es">Estamos de turno</title>
+  </programme>
+  <programme start="20201206150000 -0300" stop="20201206153000 -0300" channel="Metro">
+    <title lang="es">Noticias en salud</title>
+  </programme>
+  <programme start="20201206153000 -0300" stop="20201206160000 -0300" channel="Metro">
+    <title lang="es">Escuela de valores</title>
+  </programme>
+  <programme start="20201206160000 -0300" stop="20201206163000 -0300" channel="Metro">
+    <title lang="es">Mirta te acompaña</title>
+  </programme>
+  <programme start="20201206163000 -0300" stop="20201206170000 -0300" channel="Metro">
+    <title lang="es">Universo deportivo</title>
+  </programme>
+  <programme start="20201206170000 -0300" stop="20201206173000 -0300" channel="Metro">
+    <title lang="es">Alimenta tu vida</title>
+  </programme>
+  <programme start="20201206173000 -0300" stop="20201206180000 -0300" channel="Metro">
+    <title lang="es">MXE con tal de hablar</title>
+  </programme>
+  <programme start="20201206180000 -0300" stop="20201206183000 -0300" channel="Metro">
+    <title lang="es">Cifras TV</title>
+  </programme>
+  <programme start="20201206183000 -0300" stop="20201206193000 -0300" channel="Metro">
+    <title lang="es">Magdalena y el país</title>
+  </programme>
+  <programme start="20201206193000 -0300" stop="20201206200000 -0300" channel="Metro">
+    <title lang="es">Actualidad y psicoanálisis</title>
+  </programme>
+  <programme start="20201206200000 -0300" stop="20201206203000 -0300" channel="Metro">
+    <title lang="es">Industria Argentina P.E.M.</title>
+  </programme>
+  <programme start="20201206203000 -0300" stop="20201206210000 -0300" channel="Metro">
+    <title lang="es">Contragolpe</title>
+  </programme>
+  <programme start="20201206210000 -0300" stop="20201206213000 -0300" channel="Metro">
+    <title lang="es">Bichos de campo</title>
+  </programme>
+  <programme start="20201206213000 -0300" stop="20201206220000 -0300" channel="Metro">
+    <title lang="es">Íntimo y personal</title>
+  </programme>
+  <programme start="20201206220000 -0300" stop="20201206230000 -0300" channel="Metro">
+    <title lang="es">Universidad crítica</title>
+  </programme>
+  <programme start="20201206230000 -0300" stop="20201206233000 -0300" channel="Metro">
+    <title lang="es">Data</title>
+  </programme>
+  <programme start="20201206233000 -0300" stop="20201207000000 -0300" channel="Metro">
+    <title lang="es">Gritalo en privado</title>
+  </programme>
+  <programme start="20201206000000 -0300" stop="20201206003000 -0300" channel="A 24">
+    <title lang="es">Rumbo norte</title>
+  </programme>
+  <programme start="20201206003000 -0300" stop="20201206010000 -0300" channel="A 24">
+    <title lang="es">Mundo visual</title>
+  </programme>
+  <programme start="20201206010000 -0300" stop="20201206013000 -0300" channel="A 24">
+    <title lang="es">Con estilo</title>
+  </programme>
+  <programme start="20201206013000 -0300" stop="20201206020000 -0300" channel="A 24">
+    <title lang="es">Triple impacto</title>
+  </programme>
+  <programme start="20201206020000 -0300" stop="20201206030000 -0300" channel="A 24">
+    <title lang="es">TeveCompras</title>
+  </programme>
+  <programme start="20201206030000 -0300" stop="20201206040000 -0300" channel="A 24">
+    <title lang="es">Resumen A24</title>
+  </programme>
+  <programme start="20201206040000 -0300" stop="20201206050000 -0300" channel="A 24">
+    <title lang="es">Basta Baby</title>
+  </programme>
+  <programme start="20201206050000 -0300" stop="20201206060000 -0300" channel="A 24">
+    <title lang="es">Resumen A24</title>
+  </programme>
+  <programme start="20201206060000 -0300" stop="20201206070000 -0300" channel="A 24">
+    <title lang="es">Resumen A24</title>
+  </programme>
+  <programme start="20201206070000 -0300" stop="20201206120000 -0300" channel="A 24">
+    <title lang="es">Vivo el sábado</title>
+  </programme>
+  <programme start="20201206120000 -0300" stop="20201206130000 -0300" channel="A 24">
+    <title lang="es">Lo justo y necesario</title>
+  </programme>
+  <programme start="20201206130000 -0300" stop="20201206140000 -0300" channel="A 24">
+    <title lang="es">Realidad aumentada</title>
+  </programme>
+  <programme start="20201206140000 -0300" stop="20201206170000 -0300" channel="A 24">
+    <title lang="es">Todo en uno</title>
+  </programme>
+  <programme start="20201206170000 -0300" stop="20201206180000 -0300" channel="A 24">
+    <title lang="es">América noticias - Sábado</title>
+  </programme>
+  <programme start="20201206180000 -0300" stop="20201206200000 -0300" channel="A 24">
+    <title lang="es">América noticias - Sábado</title>
+  </programme>
+  <programme start="20201206200000 -0300" stop="20201206220000 -0300" channel="A 24">
+    <title lang="es">A24 En vivo - Edición especial</title>
+  </programme>
+  <programme start="20201206220000 -0300" stop="20201206230000 -0300" channel="A 24">
+    <title lang="es">¿Qué hacemos con los pesos?</title>
+  </programme>
+  <programme start="20201206230000 -0300" stop="20201206233000 -0300" channel="A 24">
+    <title lang="es">Con vos 24 horas</title>
+  </programme>
+  <programme start="20201206233000 -0300" stop="20201207000000 -0300" channel="A 24">
+    <title lang="es">Tesis</title>
+  </programme>
+  <programme start="20201206000000 -0300" stop="20201206010000 -0300" channel="C5N">
+    <title lang="es">Hacete cargo</title>
+  </programme>
+  <programme start="20201206010000 -0300" stop="20201206013000 -0300" channel="C5N">
+    <title lang="es">Chicas pochocleras</title>
+  </programme>
+  <programme start="20201206013000 -0300" stop="20201206020000 -0300" channel="C5N">
+    <title lang="es">C5N música</title>
+  </programme>
+  <programme start="20201206020000 -0300" stop="20201206023000 -0300" channel="C5N">
+    <title lang="es">Right Now</title>
+  </programme>
+  <programme start="20201206023000 -0300" stop="20201206030000 -0300" channel="C5N">
+    <title lang="es">Alerta verde</title>
+  </programme>
+  <programme start="20201206030000 -0300" stop="20201206040000 -0300" channel="C5N">
+    <title lang="es">Hacete cargo</title>
+  </programme>
+  <programme start="20201206040000 -0300" stop="20201206043000 -0300" channel="C5N">
+    <title lang="es">Right Now</title>
+  </programme>
+  <programme start="20201206043000 -0300" stop="20201206053000 -0300" channel="C5N">
+    <title lang="es">Esto recién empieza</title>
+  </programme>
+  <programme start="20201206053000 -0300" stop="20201206063000 -0300" channel="C5N">
+    <title lang="es">C5N música</title>
+  </programme>
+  <programme start="20201206063000 -0300" stop="20201206100000 -0300" channel="C5N">
+    <title lang="es">Bien de sábado</title>
+  </programme>
+  <programme start="20201206100000 -0300" stop="20201206130000 -0300" channel="C5N">
+    <title lang="es">Argentina en vivo</title>
+  </programme>
+  <programme start="20201206130000 -0300" stop="20201206150000 -0300" channel="C5N">
+    <title lang="es">Remix de noticias</title>
+  </programme>
+  <programme start="20201206150000 -0300" stop="20201206170000 -0300" channel="C5N">
+    <title lang="es">Nos vemos a la tarde</title>
+  </programme>
+  <programme start="20201206170000 -0300" stop="20201206190000 -0300" channel="C5N">
+    <title lang="es">Minuto a minuto</title>
+  </programme>
+  <programme start="20201206190000 -0300" stop="20201206210000 -0300" channel="C5N">
+    <title lang="es">Yo Guillermo</title>
+  </programme>
+  <programme start="20201206210000 -0300" stop="20201207000000 -0300" channel="C5N">
+    <title lang="es">Sobredosis de TV</title>
+  </programme>
+</tv>
